@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Information Science 
 MYCEM
+=======
+IS
+>>>>>>> c27395a (New Added Command)
